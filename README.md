@@ -11,6 +11,8 @@ The point of this project was to produce a low-cost thrust stand capable:
 - Being controlable from ArduPilot.
 - Providing data that can be used for calculating the thrust linearisation coefficient needed for fixed-pitch lifting rotors on ArduPilot vehicles.
 
+Video of original talk: [Youtube Link](https://www.youtube.com/watch?v=xQXkWjY6EkU&list=PLC8WVaJJhN4zE8bW97rS3cNFjsDg0rOaD&index=25)
+
 ## Disclaimer
 - This project should not be considered as a step-by-step guide.
 - It should be considered a difficult project, with numerous tools required to create the final object.
